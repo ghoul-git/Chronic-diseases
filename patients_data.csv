@@ -1,50 +1,51 @@
-John Doe,1001,45,Male,Diabetes,Non-genetic,2023-06-15,No
-Jane Smith,1002,38,Female,Hypertension,Non-genetic,2022-11-23,Yes
-Alex Johnson,1003,60,Male,Heart Disease,Genetic,2019-01-10,No
-Sarah Lee,1004,50,Female,Asthma,Non-genetic,2021-03-05,Yes
-Michael Brown,1005,55,Male,Chronic Kidney Disease,Non-genetic,2020-05-18,No
-Emily Davis,1006,42,Female,Arthritis,Non-genetic,2022-07-20,Yes
-James Wilson,1007,65,Male,Cancer,Non-genetic,2018-09-12,No
-Linda Taylor,1008,70,Female,COPD,Non-genetic,2021-02-03,Yes
-David Harris,1009,48,Male,Stroke,Non-genetic,2019-11-22,No
-Mary Clark,1010,36,Female,Diabetes,Non-genetic,2023-04-14,Yes
-William Lewis,1011,63,Male,Hypertension,Non-genetic,2017-12-01,No
-Barbara Allen,1012,59,Female,Heart Disease,Genetic,2020-01-25,Yes
-Charles King,1013,52,Male,Asthma,Non-genetic,2022-10-10,No
-Sophia Scott,1014,30,Female,Chronic Kidney Disease,Non-genetic,2021-08-18,Yes
-Lucas Young,1015,40,Male,Arthritis,Non-genetic,2022-12-10,No
-Lily Walker,1016,62,Female,Cancer,Non-genetic,2019-05-14,Yes
-Daniel Hall,1017,55,Male,COPD,Non-genetic,2020-04-06,No
-Grace Allen,1018,47,Female,Stroke,Non-genetic,2021-06-20,Yes
-Jack Adams,1019,33,Male,Diabetes,Non-genetic,2023-01-19,No
-Ava Mitchell,1020,58,Female,Hypertension,Non-genetic,2022-09-15,Yes
-Henry Carter,1021,65,Male,Heart Disease,Genetic,2019-02-25,No
-Mason Perez,1022,53,Male,Asthma,Non-genetic,2021-11-18,Yes
-Chloe Evans,1023,45,Female,Chronic Kidney Disease,Non-genetic,2020-07-22,No
-Oliver Murphy,1024,37,Male,Arthritis,Non-genetic,2022-05-11,Yes
-Ella Rivera,1025,41,Female,Cancer,Non-genetic,2019-10-05,No
-James Cooper,1026,50,Male,COPD,Non-genetic,2021-03-30,Yes
-Zoe Rodriguez,1027,38,Female,Stroke,Non-genetic,2022-01-17,No
-Benjamin Kim,1028,60,Male,Diabetes,Non-genetic,2020-10-03,Yes
-Harper Garcia,1029,48,Female,Hypertension,Non-genetic,2021-09-09,No
-Sebastian Martinez,1030,62,Male,Heart Disease,Genetic,2018-11-18,Yes
-Mila Gonzalez,1031,33,Female,Asthma,Non-genetic,2022-06-04,No
-Ethan Perez,1032,57,Male,Chronic Kidney Disease,Non-genetic,2020-02-12,Yes
-Madison White,1033,45,Female,Arthritis,Non-genetic,2021-01-08,No
-Joseph Lee,1034,52,Male,Cancer,Non-genetic,2022-12-14,Yes
-Lily Walker,1035,39,Female,COPD,Non-genetic,2019-07-20,No
-James Allen,1036,63,Male,Stroke,Non-genetic,2021-10-02,Yes
-Amelia Thomas,1037,50,Female,Diabetes,Non-genetic,2020-06-25,No
-Eli Carter,1038,55,Male,Hypertension,Non-genetic,2019-09-18,Yes
-Isla White,1039,47,Female,Heart Disease,Genetic,2021-04-10,No
-Harper Davis,1040,51,Female,Asthma,Non-genetic,2022-07-27,Yes
-Noah Wilson,1041,32,Male,Chronic Kidney Disease,Non-genetic,2020-11-02,No
-Charlotte Martin,1042,42,Female,Arthritis,Non-genetic,2021-12-14,Yes
-David Garcia,1043,58,Male,Cancer,Non-genetic,2022-08-05,No
-Amelia Brown,1044,49,Female,COPD,Non-genetic,2021-03-22,Yes
-Jack Evans,1045,43,Male,Stroke,Non-genetic,2019-12-17,No
-Emily Taylor,1046,64,Female,Diabetes,Non-genetic,2020-09-26,Yes
-Logan Wilson,1047,55,Male,Hypertension,Non-genetic,2022-10-15,No
-Zoe Miller,1048,40,Female,Heart Disease,Genetic,2021-08-01,Yes
-Nathan Thomas,1049,60,Male,Asthma,Non-genetic,2019-05-30,No
-Evelyn Martinez,1050,50,Female,Chronic Kidney Disease,Non-genetic,2021-01-14,Yes
+Name,Patient Number,Age,Gender,Disease,Disease Type,Diagnosis Date,Family History
+John Doe,1001,34,Male,Diabetes,Non-genetic,2023-01-10,No
+Jane Smith,1002,28,Female,Hypertension,Non-genetic,2023-02-15,Yes
+Alice Brown,1003,45,Female,Cancer,Genetic,2022-11-20,Yes
+Bob Johnson,1004,52,Male,Heart Disease,Non-genetic,2023-03-12,No
+Charlie White,1005,38,Male,Asthma,Genetic,2023-01-25,Yes
+Diana Green,1006,29,Female,Obesity,Non-genetic,2022-12-05,No
+Evan Black,1007,40,Male,Arthritis,Non-genetic,2023-02-01,No
+Fiona Blue,1008,36,Female,Stroke,Non-genetic,2023-04-18,No
+George Gray,1009,41,Male,Anxiety,Non-genetic,2023-03-08,No
+Hannah Pink,1010,33,Female,Depression,Non-genetic,2023-01-30,Yes
+Ian Red,1011,50,Male,Chronic Pain,Non-genetic,2022-10-22,No
+Julia Yellow,1012,27,Female,Migraine,Non-genetic,2023-02-20,Yes
+Kyle Orange,1013,47,Male,Parkinson's,Genetic,2023-03-25,Yes
+Laura Purple,1014,42,Female,Epilepsy,Genetic,2023-01-18,No
+Mike Brown,1015,35,Male,Arthritis,Non-genetic,2023-02-15,No
+Nina Gray,1016,30,Female,Asthma,Genetic,2022-12-10,Yes
+Oscar White,1017,60,Male,Diabetes,Non-genetic,2022-11-30,No
+Paula Green,1018,55,Female,Hypertension,Non-genetic,2023-02-12,Yes
+Quincy Black,1019,39,Male,Cancer,Genetic,2023-01-15,Yes
+Rachel Blue,1020,44,Female,Heart Disease,Non-genetic,2022-12-25,No
+Sam Red,1021,48,Male,Obesity,Non-genetic,2023-02-02,No
+Tina Yellow,1022,32,Female,Stroke,Non-genetic,2023-01-29,No
+Umar Pink,1023,28,Male,Anxiety,Non-genetic,2023-03-01,No
+Vera Purple,1024,37,Female,Depression,Non-genetic,2023-02-22,Yes
+Will Orange,1025,54,Male,Chronic Pain,Non-genetic,2023-01-11,No
+Xena Green,1026,45,Female,Parkinson's,Genetic,2023-03-05,Yes
+Yusuf Gray,1027,49,Male,Epilepsy,Genetic,2023-02-14,No
+Zara White,1028,31,Female,Migraine,Non-genetic,2022-11-18,Yes
+Adam Black,1029,40,Male,Arthritis,Non-genetic,2023-01-20,No
+Bella Blue,1030,36,Female,Asthma,Genetic,2023-03-15,Yes
+Chris Brown,1031,43,Male,Diabetes,Non-genetic,2022-12-22,No
+Dana Gray,1032,29,Female,Hypertension,Non-genetic,2023-02-18,Yes
+Eli White,1033,50,Male,Cancer,Genetic,2022-10-15,Yes
+Faith Green,1034,28,Female,Heart Disease,Non-genetic,2023-03-10,No
+Greg Black,1035,39,Male,Obesity,Non-genetic,2023-02-08,No
+Hailey Blue,1036,32,Female,Stroke,Non-genetic,2023-01-27,No
+Ivy Pink,1037,41,Female,Anxiety,Non-genetic,2023-03-03,No
+Jake Purple,1038,46,Male,Depression,Non-genetic,2023-01-22,Yes
+Kim Orange,1039,33,Female,Chronic Pain,Non-genetic,2022-12-30,No
+Liam Green,1040,37,Male,Parkinson's,Genetic,2023-02-13,Yes
+Mia Gray,1041,40,Female,Epilepsy,Genetic,2023-03-22,No
+Noah White,1042,44,Male,Migraine,Non-genetic,2022-11-29,Yes
+Olivia Black,1043,30,Female,Arthritis,Non-genetic,2023-01-17,No
+Paul Blue,1044,35,Male,Asthma,Genetic,2022-12-07,Yes
+Queen Brown,1045,38,Female,Diabetes,Non-genetic,2023-02-11,No
+Ryan Gray,1046,52,Male,Hypertension,Non-genetic,2023-01-12,Yes
+Sophia White,1047,31,Female,Cancer,Genetic,2022-12-03,Yes
+Tyler Green,1048,36,Male,Heart Disease,Non-genetic,2023-02-19,No
+Uma Pink,1049,43,Female,Obesity,Non-genetic,2023-03-14,No
+Victor Purple,1050,49,Male,Stroke,Non-genetic,2023-01-05,No
